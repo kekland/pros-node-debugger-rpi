@@ -1,12 +1,16 @@
 
 # pros-node-debugger-rpi
 
-Debugging and wireless uploading via Raspberry Pi.
+**Warning**: This project is still **WIP**, and many features **will** change in future.
 
-# Warning
+This is one of my crazy ideas, and it is debugging the **PROS** code by using a **Raspberry Pi** hooked up to it and running a server there.
 
-This project is still in progress, and I will write a tutorial when I will have a stable release.
+I will write a tutorial on this soon, when I will have enough time and will get this working.
 
-# Contact me
+## 🔧 Configuration
 
-**E-Mail**: `kk.erzhan@gmail.com`
+**Warning**: This project is still **WIP**, and many features **will** change in future.
+
+## 📧 Contact me
+
+**E-Mail**: kk.erzhan@gmail.com
